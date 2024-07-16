@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JobFairTask/static/css/main.94b1d480.css",
+    "main.js": "/JobFairTask/static/js/main.6dbd5fae.js",
+    "static/js/453.ed7331a5.chunk.js": "/JobFairTask/static/js/453.ed7331a5.chunk.js",
+    "index.html": "/JobFairTask/index.html",
+    "main.94b1d480.css.map": "/JobFairTask/static/css/main.94b1d480.css.map",
+    "main.6dbd5fae.js.map": "/JobFairTask/static/js/main.6dbd5fae.js.map",
+    "453.ed7331a5.chunk.js.map": "/JobFairTask/static/js/453.ed7331a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b1d480.css",
+    "static/js/main.6dbd5fae.js"
+  ]
+}
