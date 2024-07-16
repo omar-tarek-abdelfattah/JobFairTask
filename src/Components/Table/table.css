@@ -1,0 +1,43 @@
+.table {
+  background-color: #f8f9fa; 
+
+}
+
+.thead-dark th {
+  background-color: #343a40; 
+  color: white;
+}
+
+.card-header {
+  background-color: #001f3f; 
+  width: 100%;
+}
+
+.card {
+  border-color: #001f3f; 
+}
+
+.btn-primary {
+  background-color: #001f3f; 
+  border-color: #001f3f;
+}
+.start{
+  background-color: #004080;
+}
+.btn-primary:hover {
+  background-color: #004080; 
+  border-color: #004080;
+}
+
+.form-inline .form-control {
+  margin-right: 0.5rem; 
+}
+
+.form-inline {
+  display: flex;
+  justify-content: center;
+}
+
+.filter-input {
+  max-width: 200px; 
+}
